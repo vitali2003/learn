@@ -12,6 +12,8 @@
 
 ![sample](https://store.storeimages.cdn-apple.com/4974/as-images.apple.com/is/image/AppleInc/aos/published/images/i/ph/iphone7/plus/iphone7-plus-black-select-2016?wid=300&hei=300&fmt=png-alpha&qlt=95&.v=1472430090682)
 
+
+
 | First Header        | Second Headers      | Price |
 | :------------------ | :------------------ | ----: |
 | [README](README.md) | [Heroku](heroku.md) |    10 |
@@ -72,14 +74,11 @@ console.log(foo(5));
 
 ## Blockquotes
 > Blockquotes can also be nested...
-
 > Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
 > > ...by using additional greater-than signs right next to each other...
 
 And, of course emoji! :sparkles: :camel: :laughing:
 - [EMOJI CHEAT SHEET](http://www.emoji-cheat-sheet.com/)
-
-
 - __This is bold text__
 - _This is italic text_
 - ~~Strikethrough~~
